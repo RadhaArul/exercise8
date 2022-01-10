@@ -1,0 +1,158 @@
+#image-icon {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  position: relative;
+  transform: translateY(-5%) translateX(10%);
+  z-index: 50;
+}
+
+.navbar-nav > li {
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: center;
+  color: black;
+}
+
+.link-text {
+  color: black;
+  font-weight: bold;
+}
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+.maintxt {
+  background-image: url(images/background.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  transform: translateY(-12%) translateX(0%);
+  height: 110vh;
+  background-size: cover;
+}
+.product-bg-image {
+  background-image: url(images/coffeecup.png);
+  width: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  transform: translateY(-12%) translateX(0%);
+  height: 100vh;
+  background-size: cover;
+}
+.aboutus-bg-image {
+  background-image: url(images/aboutus.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  transform: translateY(-12%) translateX(0%);
+  height: 100vh;
+  background-size: cover;
+}
+.banner {
+  width: 100%;
+}
+.text-allig {
+  text-align: center;
+  color: white;
+  padding-top: 120px;
+}
+.div1-content {
+  background-image: url(images/who-we-are.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 100%;
+}
+.whoweare-margin {
+  margin-top: 750px;
+  height: 50%;
+  width: 80%;
+}
+.box {
+  margin-top: 10px;
+  width: 100%;
+  height: 60px;
+  background: rgb(219, 216, 211);
+}
+.producttext-allig {
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+}
+.aboutustext-allig {
+  text-align: center;
+  color: rgba(44, 11, 11, 0.753);
+  padding-top: 190px;
+  padding-left: 170px;
+}
+.aboutustext {
+  width: 80%;
+  text-align: center;
+  color: black;
+  padding-top: 50px;
+  font-weight: bold;
+  font-style: italic;
+  padding-left: 500px;
+}
+.machine-font {
+  font-size: 60px;
+}
+.horizontal-list {
+  float: left;
+  padding-left: 2em;
+}
+.coffeeparty {
+  padding-left: 100px;
+  width: 60%;
+  height: 60%;
+}
+.officeaddress {
+  margin-left: 50px;
+  width: 500px;
+  height: 150px;
+  background-color: chocolate;
+  box-sizing: border-box;
+}
+.ceoaddress {
+  margin-left: 300px;
+  width: 500px;
+  height: 150px;
+  background-color: coral;
+  box-sizing: border-box;
+}
+.hraddress {
+  margin-top: 50px;
+  margin-left: 40px;
+  width: 500px;
+  height: 150px;
+  background-color: green;
+  box-sizing: border-box;
+}
+.style1 {
+  height: 50%;
+  width: 80%;
+}
+.mar1 {
+  margin-left: 60px;
+}
+.mar2 {
+  margin-left: -110px;
+}
+.mar3 {
+  margin-top: -200px;
+  width: 80%;
+}
+.mar4 {
+  margin-top: -200px;
+  width: 80%;
+  margin-left: -100px;
+  height: 400px;
+}
+.mar5 {
+  margin-top: 50px;
+}
+.mar6 {
+  padding-top: 20px;
+  margin-left: 900px;
+}
